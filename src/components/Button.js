@@ -3,7 +3,7 @@
 import React from "react";
 import "./Button.css";
 import { Link } from "react-router-dom";
-/* import { children } from "react"; */
+import { children } from "react";
 
 const STYLES = ["btn--primary", "btn--outline"];
 
